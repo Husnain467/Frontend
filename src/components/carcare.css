@@ -1,0 +1,13 @@
+.carcare-products{
+    height: 450px;
+    width:25rem;
+    margin-top: 1rem;
+    
+}
+.card-img-top3{
+    height: 300px;
+}
+.carcare-product{
+    display: flex;
+}
+

@@ -1,0 +1,14 @@
+.tire-brand{
+    height: 450px;
+    width:25rem;
+    margin: 1rem;
+    
+}
+.card-img-top4{
+    height: 200px;
+
+}
+.tire-brand{
+    display: flex;
+}
+

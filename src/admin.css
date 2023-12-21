@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.row9 {
+    height: 10vh;
+}
+
+.row10 {
+    height:17vh;
+    background-color: white;
+    margin: 0;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    border: 2px solid black;
+    cursor:auto;
+}
+
+.admin-img {
+    height: 50px;
+    width: 90px;
+}
+
+.row11 {
+    height: 100vh;
+    background-color: rgb(255, 254, 254);
+}
+
+.row12 {
+    height: 7vh;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.col-md-9 {
+    border: 2px solid hotpink;
+}
